@@ -28,12 +28,7 @@
     
     
 }
-.article{
-    height: 250px;
-    background-color: blue;
-    z-index: auto;
-    background-color: #f5cac3;
-}
+
 
 .button {
     border-radius: 4px;
@@ -74,6 +69,16 @@
     opacity: 1;
     right: 0;
   }
+  .article{
+    height: 280px;
+    background-color: blue;
+    z-index: auto;
+    background-color: #f5cac3;
+    padding: 20px;
+    display: flex;
+
+  }
+
   .article ul{
       display: flex;
       text-decoration: none;
@@ -82,7 +87,16 @@
       text-decoration: none;
   }
   .smartfarm{
+      border: 0 solid black;
+      height: 240px;
+      width: 250px;
+      text-align: center;
+      align-items: center;
+      padding: 20px;
+      position: relative;
+      left: 90px;
       
+     
   }
   .smartfarm img{
       height: 70px;
