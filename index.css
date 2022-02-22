@@ -14,11 +14,16 @@
 .myText{
     color: white;
     padding: 20px 20px;
+    position: relative;
+    left: 100px;
+    bottom: -70px;
 
 }
 .myImage{
     margin-top: -80px;
     margin-left: 40px;
+    position: relative;
+    left: 100px;
     
     
 }
