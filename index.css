@@ -29,9 +29,10 @@
     
 }
 .article{
-    height: 150px;
+    height: 250px;
     background-color: blue;
     z-index: auto;
+    background-color: #f5cac3;
 }
 
 .button {
@@ -72,4 +73,19 @@
   .button:hover span:after {
     opacity: 1;
     right: 0;
+  }
+  .article ul{
+      display: flex;
+      text-decoration: none;
+  }
+  .article ul li{
+      text-decoration: none;
+  }
+  .smartfarm{
+      
+  }
+  .smartfarm img{
+      height: 70px;
+      width: 70px;
+      background-size: cover;
   }
