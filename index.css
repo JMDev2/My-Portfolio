@@ -120,4 +120,20 @@
   nav{
     background-image: linear-gradient(to right, white, violet 50%)
   }
- 
+
+ .card-body{
+    display: flex;
+  }
+  .card-body img{
+    height: 250px;
+  }
+  .card-body p{
+    color: #f4511e;
+    align-items: center;
+    padding: 60px;
+  }
+  .card-body h6{
+    color: #f4511e;
+    align-items: center;
+    
+  }
