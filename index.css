@@ -168,3 +168,19 @@ h3{
 .smartfarm h3{
   margin-top: -20px;
 }
+marquee{
+  color: #f4511e;
+  font-family: 'Architects Daughter', cursive;
+  font-size: 30px;
+  font-weight: bolder;
+}
+.collapse ul li a{
+  color: #f4511e;
+}
+.collapse ul li a:hover{
+  color: white;
+}
+/* h5{
+  color: #f4511e;
+  
+} */
