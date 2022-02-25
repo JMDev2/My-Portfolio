@@ -165,6 +165,7 @@ h3{
 .smartfarm p{
   margin-top: -20px;
   font-family: 'Architects Daughter', cursive;
+  
 }
 .smartfarm h3{
   margin-top: -20px;
@@ -197,10 +198,18 @@ marquee{
   margin: 5%;
 } */
 ul{
-  color: white;
   padding: 20px;
   margin-left: 60px;
+  
 }
-ul li span{
-  color: aquamarine;
+ul li{
+  color: #f4511e;
+  font-family: 'Architects Daughter', cursive;
+  text-decoration: none;
+  
+}
+.card-body ul li .list{
+  color: #f4511e;
+  font-size: x-large;
+  text-decoration: none;
 }
