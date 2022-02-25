@@ -28,7 +28,7 @@
 .myImage{
     margin-top: 50px;
     position: relative;
-    /* left: 70px; */
+    
     
     
 }
@@ -136,16 +136,7 @@
     border-radius: 50%;
     
   }
-  /* .card-body p{
-    color: #f4511e;
-    align-items: center;
-    padding: 60px;
-  } */
-  /* .card-body h6{
-    color: #f4511e;
-    align-items: center;
-    
-  } */
+  
   .carousel-control-next span{
     margin-left: 200px;
   }
@@ -182,10 +173,7 @@ marquee{
 .collapse ul li a:hover{
   color: white;
 }
-/* h5{
-  color: #f4511e;
-  
-} */
+
 .card-body{
   margin:0 10%;
 }
@@ -194,9 +182,7 @@ marquee{
   clear: left;
   margin: 5%;
 }
-/* .card-body p{
-  margin: 5%;
-} */
+
 ul{
   padding: 20px;
   margin-left: 60px;
