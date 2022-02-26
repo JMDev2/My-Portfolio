@@ -21,6 +21,6 @@ https://github.com/JOSEPHMAINA1995/My-Portfolio.git
 1. Git
 1. Bootstrap
 ### Live Site
-View [Live] 
+View [Live] https://josephmaina1995.github.io/My-Portfolio/
 ### Licence
 This project is under the  [MIT](license) license
